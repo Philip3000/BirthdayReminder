@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612733365636",
+    "project_id": "kotlinbirthdays",
+    "storage_bucket": "kotlinbirthdays.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612733365636:android:8b7bb1984192ab22a441d1",
+        "android_client_info": {
+          "package_name": "com.example.birthdayreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXunYlsHG2fEcWuUVQ3B9OaGCLar4rBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
